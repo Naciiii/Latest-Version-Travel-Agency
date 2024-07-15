@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>car.png</file>
+        <file>train.png</file>
+        <file>hotel.png</file>
+        <file>plane.png</file>
+        <file>explore_6387289.png</file>
+        <file>storage_3447332.png</file>
+        <file>disk_718913.png</file>
+        <file>open.png</file>
+        <file>search.png</file>
+        <file>add_11659161.png</file>
+        <file>alerts.png</file>
+        <file>pay-per-click.png</file>
+    </qresource>
+</RCC>
